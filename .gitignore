@@ -1,0 +1,6 @@
+node_modules/
+*.log
+.env
+makefun-keypair.json
+wallet.json
+transcripts.tar.gz
